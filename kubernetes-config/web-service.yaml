@@ -10,6 +10,6 @@ spec:
    protocol: TCP
    targetPort: 8080
  selector:
-   app: events-web
+   app: events-website
    ver: v1.0
  type: LoadBalancer
